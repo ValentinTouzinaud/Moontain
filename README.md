@@ -11,7 +11,7 @@ Logiciels utilisés :
   
 
 
-#! En cours de création sur Wordpress !
+! En cours de création sur Wordpress !
 
   
 Maquette Moontain Figma :
