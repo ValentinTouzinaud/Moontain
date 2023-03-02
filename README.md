@@ -3,7 +3,7 @@
 
 Voici Moontain, un projet en anglais sur le thème de la montagne. Celui-ci est orienté Blog dans lequel un club parle de ses exploits !
 
-#### Logiciels utilisés :
+### Logiciels utilisés :
 
   - Photoshop
   - Figma
