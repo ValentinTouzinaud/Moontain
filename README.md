@@ -12,6 +12,7 @@ Voici Moontain, un projet en anglais sur le thème de la montagne. Celui-ci est 
 
 
 # En cours de création sur Wordpress !!!
+update 28/03/2023 : bientôt fini
 
   
 ### Maquette Moontain Figma :
